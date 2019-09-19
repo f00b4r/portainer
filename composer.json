@@ -1,0 +1,5 @@
+{
+    "name": "portainer/portainer",
+    "description": "PHP API client for Portainer",
+    "require": {}
+}
